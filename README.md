@@ -1,4 +1,9 @@
-### Hi there 👋
+## HongYeseul
+------------
+:sparkles: birth - 1999.09.30
+
+:sparkles: email - ghd8119@naver.com
+:sparkles: naverBlog - https://blog.naver.com/ghd8119
 
 <!--
 **HongYeseul/HongYeseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
