@@ -2,7 +2,7 @@
 ------------
 :sparkles: birth - 1999.09.30
 
-:sparkles: email - ghd8119@naver.com
+:sparkles: email - ghd8119@naver.com   
 :sparkles: naverBlog - https://blog.naver.com/ghd8119
 
 <!--
