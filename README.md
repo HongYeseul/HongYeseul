@@ -1,4 +1,4 @@
-## HongYeseul
+## HongYeseul (홍예슬)
 :sparkles: birth - 1999.09.30
 
 :sparkles: email - ghd8119@naver.com   
