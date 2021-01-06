@@ -28,8 +28,10 @@
   <a href="https://www.instagram.com/study_yeseul_18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/study_yeseul_18/"/></a>&nbsp
   <a href="mailto:ghd8119@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-00C43B?style=flat-square&logo=Gmail&logoColor=white&link=ghd8119@naver.com"/></a>
 </p>
-<br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HongYeseul&hide=contribs,prs&show_icons=true&theme=graywhite"/>
+</p>
 
 <!--
 **HongYeseul/HongYeseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
