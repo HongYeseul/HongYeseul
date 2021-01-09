@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongYeseul&count_bg=%237719AA&title_bg=%234B275F&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongYeseul&count_bg=%237719AA&title_bg=%234B275F&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
 
 <!--
