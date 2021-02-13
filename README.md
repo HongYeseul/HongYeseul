@@ -24,7 +24,8 @@
 <br>
 <h3 align="center"> ✨ Info ✨</h3>
 <p align="center">
-  <a href="https://blog.naver.com/ghd8119"><img src="https://img.shields.io/badge/Naver%20Blog-00C43B?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/ghd8119"/></a>&nbsp
+<!--   <a href="https://blog.naver.com/ghd8119"><img src="https://img.shields.io/badge/Naver%20Blog-00C43B?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/ghd8119"/></a>&nbsp -->
+  <a href="https://velog.io/@yeseul"><img src="https://img.shields.io/badge/Velog%20(blog)-23c184?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/ghd8119"/></a>&nbsp
   <a href="https://www.instagram.com/study_yeseul_18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/study_yeseul_18/"/></a>&nbsp
   <a href="mailto:ghd8119@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-00C43B?style=flat-square&logo=Gmail&logoColor=white&link=ghd8119@naver.com"/></a>
 </p>
