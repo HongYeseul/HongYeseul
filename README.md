@@ -1,19 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=579AF2&size=35&center=true&vCenter=true&width=280&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Yeseul.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-### I'm currently learning... 🔥
+### I'm currently learning... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" />
   <a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </a>
+  <a> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=thealgorithms&logoColor=white"/> </a>
 
 ---
-<!--
-<br>
-<h3> ✨ Info ✨</h3>
-<p>
- <a href="https://www.instagram.com/study_yeseul_18/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/study_yeseul_18/"/></a>&nbsp
-  <a href="mailto:yeseul.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=yeseul.dev@gmail.com"/></a>
-</p>
--->
 
 <!-- <p> 
  <img src="https://github-readme-stats.vercel.app/api?username=HongYeseul&hide=contribs,prs&show_icons=true&theme=graywhite"/>  </p> -->
