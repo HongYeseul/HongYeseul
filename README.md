@@ -8,7 +8,8 @@
 
 ### 2024
 
-- 24.02~진행중 IT 동아리 CHZZK 1기 - 잔디 일기: 일기 작성 웹서비스 - [Website](https://grassdiary.site/), [Repository](https://github.com/CHZZK-Study/Grass-Diary-Server)
+- 24.09~진행중 [1인 프로젝트] 한정 수량 인기 상품 구매 서비스 만들기 - [Repository](https://github.com/HongYeseul/hotdeal-be)
+- 24.02~24.10 IT 동아리 CHZZK 1기 - 잔디 일기: 일기 작성 웹서비스 - [Website](https://grassdiary.site/), [Repository](https://github.com/CHZZK-Study/Grass-Diary-Server)
 - 24.08 [CJ올리브네트웍스] Cloud Wave 3기 대규모 트래픽을 고려한 올리브영 아키텍처 구성하기, 최우수상 - [Repository](https://github.com/cwave-druwa)
 - 24.06~24.08 [CJ올리브네트웍스] Cloud Wave 3기
 - 24.03 IT 해커톤 UNITHON 11TH - Nafull: Discord를 이용한 커뮤니티 내 감사 편지 전송 서비스 - [Info](https://www.unit.center/5d50ebd0-5884-4ef8-a066-e9d7d3f083c7), [Repository](https://github.com/NafullNafull/Nafull-server)
