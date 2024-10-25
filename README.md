@@ -21,3 +21,9 @@
 
 ### 2021
 - IT 동아리 Fun.D 6기 - 용기낸 식당: 재사용 용기를 사용할 수 있는 음식점들을 공유할 수 있는 커뮤니티 서비스 - [Info](https://koreashe.org/board/?mode=view&post_id=4130), [Repository](https://github.com/ContainerRestaurant/ContainerRestaurant-Server)
+
+## 📚 Certificate
+
+- **2024.10** Certified Kubernetes Administrator (CKA)
+- **2024.09** AWS Certified Solutions Architect - Associate(SAA)
+- **2021.11** 정보처리기사
