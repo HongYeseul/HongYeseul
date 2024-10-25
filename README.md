@@ -25,5 +25,5 @@
 ## 📚 Certificate
 
 - **2024.10** Certified Kubernetes Administrator (CKA)
-- **2024.09** AWS Certified Solutions Architect - Associate(SAA)
+- **2024.09** AWS Certified Solutions Architect - Associate (SAA)
 - **2021.11** 정보처리기사
