@@ -1,4 +1,4 @@
-### 안녕하세요! 홍예슬입니다.
+### 안녕하세요! 백엔드 개발자 홍예슬입니다.
 
 ## ✏️ Studying
 - Java, Spring, JPA, MySQL
@@ -27,4 +27,3 @@
 
 - **2024.10** Certified Kubernetes Administrator (CKA)
 - **2024.09** AWS Certified Solutions Architect - Associate (SAA)
-- **2021.11** 정보처리기사
