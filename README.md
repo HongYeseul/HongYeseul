@@ -2,7 +2,8 @@
 
 - 2024.12.09 ~
 - 백엔드 개발자
-- 줌인터넷([zum.com](https://zum.com/)) 서비스 개발
+- 줌인터넷([zum.com](https://zum.com/))
+- 미브([mevu](https://play.google.com/store/apps/details?id=com.estaid.mevu&hl=ko)) 서비스 개발
 
 #### 국방부
 
