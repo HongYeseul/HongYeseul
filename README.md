@@ -11,6 +11,11 @@
 - 전산직 군무원
 - 네트워크 담당
 
+## Open Source Contributions
+
+- spring-batch
+  - Fix ID collision in MetaDataInstanceFactory for test scenarios with @SpringBatchTest [#5208](https://github.com/spring-projects/spring-batch/pull/5208)
+
 ## Certificate
 
 - **2024.10** Certified Kubernetes Administrator (CKA)
